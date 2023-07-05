@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   - [Gamera](https://github.com/DDMAL/gamera4-rodan)
   - [Rodan](https://github.com/DDMAL/Rodan)
 - 🛠Animation Tools
-  - [SMPL to FBX](https://github.com/softcat477/SMPL-to-FBX)
+  - [SMPL to FBX (with blender addon!)](https://github.com/softcat477/SMPL-to-FBX)
 - 🕍Medieval Music
   - [Rodan](https://github.com/DDMAL/Rodan)
 - 🎶Tools to Make Music
