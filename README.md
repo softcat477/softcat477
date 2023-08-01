@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎮Unity / 🤖Interactive Stuff / 🌸SPLENDID graphics and audio
+- 🎮Games / 🤖Interactive Stuff / 🌸SPLENDID graphics and audio
   - [MaruMaru](https://github.com/softcat477/Balls)
   - [Backyard](https://github.com/softcat477/Backyard)
-  - [Juicy Radio](https://github.com/softcat477/Juicy-Radio)
+  - [Shader Gallery](https://github.com/softcat477/ShaderGallery)
+- 🎉Game Jam
+  - [Ico Jam 2023](https://github.com/softcat477/Ico-2023)
 - 👨🏼‍💻Good Git Manner / 🪄Github Magic / 👾Automation Tricks:
   - [MuseScore](https://github.com/musescore/MuseScore/pulls/softcat477)
   - [MaruMaru](https://github.com/softcat477/Balls)
@@ -35,7 +37,6 @@ Here are some ideas to get you started:
   - [Tutorial: Docker Compose](https://github.com/softcat477/Simple-Docker-Compose)
 - ✒️Doodle:
 <img src="https://github.com/softcat477/softcat477/assets/25975988/ba50373b-aa9d-40c5-b441-8af84151233c" alt="Image Description" width="200">
-← This is my self portrait.
 
 
 
