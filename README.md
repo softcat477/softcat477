@@ -37,8 +37,10 @@ Here are some ideas to get you started:
   - [Gamera](https://github.com/DDMAL/gamera4-rodan)
   - [Docker Action](https://github.com/softcat477/hello-world-docker-action)
   - [Tutorial: Docker Compose](https://github.com/softcat477/Simple-Docker-Compose)
-- ✒️Doodle:
-<img src="https://github.com/softcat477/softcat477/assets/25975988/ba50373b-aa9d-40c5-b441-8af84151233c" alt="Image Description" width="200">
+- ✒️Gallery:
+  - ![](src/Dissolve.gif)
+  - ![](src/Buoyancy.gif)
+  - ![](src/Ico.gif)
 
 
 
