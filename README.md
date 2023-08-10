@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎮Games / 🤖Interactive Stuff / 🌸SPLENDID graphics and audio
+- 🎮Games / 🤖Interactive Stuff
+  - [Ico Jam 2023](https://github.com/softcat477/Ico-2023)
   - [MaruMaru](https://github.com/softcat477/Balls)
   - [Backyard](https://github.com/softcat477/Backyard)
-  - [Shader Gallery](https://github.com/softcat477/ShaderGallery)
-- 🎉Game Jam
-  - [Ico Jam 2023](https://github.com/softcat477/Ico-2023)
+- 🌸Shaders and Visual Effects
+  - [Dissolve](https://github.com/softcat477/Dissolve)
+  - [Water Surface and Buoyancy](https://github.com/softcat477/Water-Surface-Shader)
+  - [Noise Library](https://github.com/softcat477/ShaderGallery)
 - 👨🏼‍💻Good Git Manner / 🪄Github Magic / 👾Automation Tricks:
   - [MuseScore](https://github.com/musescore/MuseScore/pulls/softcat477)
   - [MaruMaru](https://github.com/softcat477/Balls)
