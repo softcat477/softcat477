@@ -17,6 +17,7 @@ Here are some ideas to get you started:
   - [Ico Jam 2023](https://github.com/softcat477/Ico-2023)
   - [MaruMaru](https://github.com/softcat477/Balls)
   - [Backyard](https://github.com/softcat477/Backyard)
+  - [Select visible objects with Raycast](https://github.com/softcat477/Select-Visible-Objects)
 - 🌸Shaders and Visual Effects
   - [Dissolve](https://github.com/softcat477/Dissolve)
   - [Water Surface and Buoyancy](https://github.com/softcat477/Water-Surface-Shader)
@@ -40,9 +41,5 @@ Here are some ideas to get you started:
 - ✒️Gallery:
   - ![](src/Dissolve.gif)
   - ![](src/Buoyancy.gif)
+  - ![](src/SelectRaycast.gif)
   - ![](src/Ico.gif)
-
-
-
-
-
