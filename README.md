@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 -->
 - 🐳Docker
   - [Rodan](https://github.com/DDMAL/Rodan)
-  - [Gamera](https://github.com/DDMAL/gamera4-rodan)
-  - [Docker Action](https://github.com/softcat477/hello-world-docker-action)
-  - [Tutorial: Docker Compose](https://github.com/softcat477/Simple-Docker-Compose)
 - 🌸Shaders and Visual Effects
   - [Dissolve](https://github.com/softcat477/Dissolve)
   - [Water Surface and Buoyancy](https://github.com/softcat477/Water-Surface-Shader)
