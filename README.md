@@ -12,14 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🐳Docker
+- Docker
   - [Rodan](https://github.com/DDMAL/Rodan)
-- 🌸Shaders and Visual Effects
+  - [Backend](https://github.com/softcat477/pweb-backend)
+- IaC
+  - [Openstack Instances](https://github.com/softcat477/openstack-terraform-instance)
+- Good Git Manner / Automation Tricks:
+  - [MuseScore](https://github.com/musescore/MuseScore/pulls/softcat477)
+  - [Github Action-Reusable Workflow-p1](https://github.com/softcat477/reusable-and-composite-actions/tree/main)
+  - [Github Action-Reusable Workflow-p2](https://github.com/softcat477/reuse-workflow)
+- Animation
+  - [SMPL to FBX (with blender addon!)](https://github.com/softcat477/SMPL-to-FBX)
+- Shaders and Visual Effects
   - [Dissolve](https://github.com/softcat477/Dissolve)
   - [Water Surface and Buoyancy](https://github.com/softcat477/Water-Surface-Shader)
   - [Noise Library](https://github.com/softcat477/ShaderGallery)
-- 👨🏼‍💻Good Git Manner / 🪄Github Magic / 👾Automation Tricks:
-  - [MuseScore](https://github.com/musescore/MuseScore/pulls/softcat477)
-  - [Rodan](https://github.com/DDMAL/Rodan)
-- 🛠Animation Tools
-  - [SMPL to FBX (with blender addon!)](https://github.com/softcat477/SMPL-to-FBX)
