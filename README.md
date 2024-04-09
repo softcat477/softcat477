@@ -19,8 +19,9 @@ Here are some ideas to get you started:
   - [Openstack Instances](https://github.com/softcat477/openstack-terraform-instance)
 - Good Git Manner / Automation Tricks:
   - [MuseScore](https://github.com/musescore/MuseScore/pulls/softcat477)
-  - [Github Action-Reusable Workflow-p1](https://github.com/softcat477/reusable-and-composite-actions/tree/main)
-  - [Github Action-Reusable Workflow-p2](https://github.com/softcat477/reuse-workflow)
+  - [Github Actions](https://github.com/softcat477/reusable-and-composite-actions)
+    - [Reusable Workflow](https://github.com/softcat477/reuse-workflow)
+    - [Composite Action](https://github.com/softcat477/composite-action)
 - Animation
   - [SMPL to FBX (with blender addon!)](https://github.com/softcat477/SMPL-to-FBX)
 - Shaders and Visual Effects
