@@ -17,6 +17,8 @@ Here are some ideas to get you started:
   - [Personal Website Backend](https://github.com/softcat477/pweb-backend)
 - IaC
   - [Openstack Instances in Terraform](https://github.com/softcat477/openstack-terraform-instance)
+- Ansible
+  - [Install kubeadm/kubectl/kubelet/containerd/docker with Ansible](https://github.com/softcat477/Ansible-install-Kubernetes)  
 - Good Git Manner / Automation Tricks:
   - [MuseScore](https://github.com/musescore/MuseScore/pulls/softcat477)
   - [Github Actions](https://github.com/softcat477/reusable-and-composite-actions)
