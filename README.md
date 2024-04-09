@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 - Docker
   - [Rodan](https://github.com/DDMAL/Rodan)
-  - [Backend](https://github.com/softcat477/pweb-backend)
+  - [Personal Website Backend](https://github.com/softcat477/pweb-backend)
 - IaC
-  - [Openstack Instances](https://github.com/softcat477/openstack-terraform-instance)
+  - [Openstack Instances in Terraform](https://github.com/softcat477/openstack-terraform-instance)
 - Good Git Manner / Automation Tricks:
   - [MuseScore](https://github.com/musescore/MuseScore/pulls/softcat477)
   - [Github Actions](https://github.com/softcat477/reusable-and-composite-actions)
